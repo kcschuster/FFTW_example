@@ -48,7 +48,7 @@ int main()
     int N1 = 43;   //number of values input to fftw in x-dim
     int N2 = 43;   //number of values input to fftw in y-dim
     
-    int nframes = 4;    //number of frames over which to average
+    int nframes = 3;    //number of frames over which to average
     
     //==============================================================
     
