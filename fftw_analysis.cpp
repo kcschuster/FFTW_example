@@ -5,7 +5,7 @@
  *      two-dimensional Fourier transforms in C++.  Can be modified
  *      based on specific application.
  *
- *  Note:  Compile with "g++ test_fftw_analysis.cpp -lfftw3"
+ *  Note:  Compile with "g++ fftw_analysis.cpp -lfftw3"
  *
  *  Author: Kelsey Schuster
  */
